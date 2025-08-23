@@ -1,6 +1,6 @@
 # TouchBot
 
-TouchBot is an agent-based automation framework for performing and documenting basic tasks on Android smartphones. It leverages visual and XML data to interact with UI elements, enabling autonomous exploration and human demonstration modes.
+TouchBot is an agent-based automation framework for performing and documenting basic tasks on Android smartphones. It leverages visual and XML data to interact with UI elements, enabling autonomous task execution and documentation generation.
 
 ## Features
 
@@ -10,6 +10,10 @@ TouchBot is an agent-based automation framework for performing and documenting b
 - **Supports Tap, Text, Long Press, Swipe**: Automates common UI actions.
 - **Documentation Generation**: Creates concise descriptions for UI elements based on user actions.
 - **Configurable**: Easily adjust API keys, model, and behavior via `config.yaml`.
+
+## Architecture
+
+![TouchBot High-Level Design](diagram(1).png)
 
 ## Getting Started
 
