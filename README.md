@@ -27,7 +27,7 @@ TouchBot is an agent-based automation framework for performing and documenting b
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/TouchBot.git
+    git clone https://github.com/greywarden07/TouchBot.git
     cd TouchBot
     ```
 
